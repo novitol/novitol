@@ -1,1 +1,1 @@
-## CTF player (web, hardware)
+## CTF player (web & hardware)
